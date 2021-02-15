@@ -97,7 +97,7 @@ vuln = "\033[32mbardasta"
 os.system("clear")
 print ""
 
-    def login():
+     def login():
         os.system('clear')
         try:
             toket = open('login.txt', 'r')
